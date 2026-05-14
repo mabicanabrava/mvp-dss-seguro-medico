@@ -1,2 +1,2 @@
 # mvp-dss-seguro-medico
-Professor: @andrelms
+Professor: @andrelmsunb
