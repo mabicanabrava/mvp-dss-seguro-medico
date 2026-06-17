@@ -1,2 +1,2 @@
-# mvp-dss-seguro-medico
+# mvp-dss-vendas-superstore
 Professor: @andrelmsunb
